@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rifsana
 - 👀 I’m interested in Creating a bot which can whatever we say
-- 🌱 I’m currently learning Coding
+- 🌱 I’m currently learning xxxxx
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
