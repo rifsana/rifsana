@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rifsana
-- 👀 I’m interested iny
-- 🌱 I’m currently learning xxxxx
+- 👀 I’m interested in
+- 🌱 I’m currently learning ****
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
