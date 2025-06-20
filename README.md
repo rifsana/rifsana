@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rifsana
--  I’m interested in App Development
--  I’m currently learning Kotlin
+
 
 
 <!---
