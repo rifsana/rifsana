@@ -1,65 +1,46 @@
 <div align="center">
-  <h1>Hi there, I'm Rifsana Iqbal 👋</h1>
-  <p><strong>Android Application Developer & Software Engineer</strong></p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/rifsana-iqbal-8b3855280/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/rifsana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:rifsanaiqbal05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://discord.gg/rifs_ana_"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  </p>
+# Rifsana Iqbal
+**Android Developer & Software Engineer**
+
+[LinkedIn](https://www.linkedin.com/in/rifsana-iqbal-8b3855280/) • [GitHub](https://github.com/rifsana) • [Email](mailto:rifsanaiqbal05@gmail.com) • [Discord](https://discord.gg/rifs_ana_)
+
 </div>
 
 ---
 
-### ⚡ Summary
+### About Me
 
-> Android Application Developer & Software Engineer dedicated to building high-performance native mobile applications and scalable web solutions. Specialized in **Kotlin**, **Jetpack Compose**, **MVVM / Clean Architecture**, **Room DB**, and cloud integrations with **Firebase** and **REST APIs**. Passionate about clean code, UI precision, and reactive state management.
-
----
-
-### 🛠️ Technical Capabilities
-
-#### 📱 Native Android Stack
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Hilt DI](https://img.shields.io/badge/Hilt-000000?style=for-the-badge&logo=google&logoColor=white)
-![Room DB](https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=sqlite&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge)
-
-#### 🌐 Web, Cloud & Databases
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### ⚙️ Architecture & Tooling
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-181717?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM_Pattern-0077B5?style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+An engineering student passionate about Android app development, crafting seamless mobile user experiences with Kotlin and Jetpack Compose. Currently working as a Web Developer Intern at CA Sansaar and previously developed system-level Android monitoring software at DRDO. Selected among the top 4% nationally for the IIT Delhi STEM Mentorship Programme. I have built multiple native Android apps, including VirtualFit (an AR try-on application using CameraX & MediaPipe) and CraftIt, alongside full-stack platforms like CodePrep. I have also explored Web Dev, Cloud computing, and database management. When I'm AFK, you'll find me reading books or singing.
 
 ---
 
-### 📊 GitHub Activity & Streak
+### Technical Skills
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rifsana&theme=tokyonight&hide_border=true" width="98%" />
-</div>
+**Android & Core Languages**  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br/>
+**Backend, Cloud & Databases**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifsana&theme=tokyo-night&hide_border=true" width="98%" />
-</div>
+**Architecture & Tools**  
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-181717?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-0077B5?style=flat-square)
+![Room DB](https://img.shields.io/badge/Room_DB-4285F4?style=flat-square)
+![Hilt](https://img.shields.io/badge/Hilt-000000?style=flat-square)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
