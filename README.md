@@ -9,7 +9,7 @@
 
 ---
 
-Android & Flutter developer interested in building intuitive mobile experiences and solving real-world problems through technology. Experienced in Kotlin, Jetpack Compose, and application development, with hands-on experience at DRDO and research exposure through IIT Delhi’s STEM Mentorship Programme. I enjoy exploring new technologies, learning how systems work, and turning ideas into practical solutions. Beyond tech, I’m usually reading, listening to music, or discovering something new.
+Android Developer experienced in Kotlin, Jetpack Compose, and Flutter, with additional experience building full-stack web applications using the MERN stack. I enjoy working across mobile and web technologies, focusing on clean architecture, intuitive user experiences, and reliable software. My experience includes application development at DRDO and web development at CA Sansaar. Beyond tech, I enjoy reading, listening to music, and exploring new ideas.
 
 ---
 
