@@ -9,7 +9,11 @@
 
 ---
 
-Android Developer experienced in Kotlin, Jetpack Compose, and Flutter, with additional experience building full-stack web applications using the MERN stack. I enjoy working across mobile and web technologies, focusing on clean architecture, intuitive user experiences, and reliable software. My experience includes application development at DRDO and web development at CA Sansaar. Beyond tech, I enjoy reading, listening to music, and exploring new ideas.
+Hey! I’m an Android developer who enjoys building apps and figuring out what makes them work well beyond just the UI. I mainly work with Kotlin and Jetpack Compose, and also have experience with Flutter and the MERN stack.
+
+I like exploring new technologies, working through tricky bugs, improving app performance, and finding better ways to structure code. I’m always experimenting with ideas, learning by building, and trying to understand the engineering behind the products I use every day.
+
+When I’m away from code, you’ll probably find me listening to music, reading, or going down a random curiosity rabbit hole.
 
 ---
 
