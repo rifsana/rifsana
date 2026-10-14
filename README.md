@@ -9,7 +9,7 @@
 
 ---
 
-An engineering student passionate about Android application development, crafting intuitive native mobile experiences with Kotlin and Jetpack Compose. Previously developed system-level Android performance monitoring software at DRDO. Selected among the top 4% nationally for the IIT Delhi STEM Mentorship Programme. I have built native Android and full-stack applications, including VirtualFit (an AR try-on app using CameraX & MediaPipe) and CodePrep. I also enjoy exploring Web Dev, Cloud services, and database design. When I'm AFK, you'll find me reading books or singing.
+Android & Flutter developer interested in building intuitive mobile experiences and solving real-world problems through technology. Experienced in Kotlin, Jetpack Compose, and application development, with hands-on experience at DRDO and research exposure through IIT Delhi’s STEM Mentorship Programme. I enjoy exploring new technologies, learning how systems work, and turning ideas into practical solutions. Beyond tech, I’m usually reading, listening to music, or discovering something new.
 
 ---
 
